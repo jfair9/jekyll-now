@@ -5,5 +5,5 @@ title: First Post!
 
 Hello World!!
 
-![_config.yml]({{ site.baseurl }}/images/Jesse.png)
+![under construction]({{ site.baseurl }}/images/404.png)
 
